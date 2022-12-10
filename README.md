@@ -1,4 +1,4 @@
-# my-app
+# this is sample example of jenkins connecting with github
 Sample Java project to test the connectivity with Jenkins project.
 
 #VybhavaTechnologies
